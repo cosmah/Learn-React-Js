@@ -4,3 +4,6 @@
     -We can use Vite i.e `npm create vite@latest`, `cd project root folder` then `npm install`
     -`npm run dev` to run the server
     -react component us .tsx extension
+
+2.Create a listgroup component
+    -install bootstrap `npm install bootstrap@latest`
