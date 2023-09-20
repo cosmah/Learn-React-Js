@@ -28,3 +28,7 @@
       <li className="list-group-item">And a fifth one</li>
     </ul>
     </Fragment>`
+    We can also use `<></>`
+
+We dont have for loops in tsx.We render data using map method.
+When rendering data using map() we give each data a prop key to identify it uniquely.
